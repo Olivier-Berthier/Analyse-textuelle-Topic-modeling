@@ -16,5 +16,5 @@ Les défis rencontrés — gestion des données bruitées, optimisation des règ
 en insights actionnables.
 
 
-*Outils clés* : Lemmatisation avancée, segmentation sémantique par règles hybrides (regex + NLP), analyse distributionnelle, et visualisation de motifs textuels.
+**Outils clés** : Lemmatisation avancée, segmentation sémantique par règles hybrides (regex + NLP), analyse distributionnelle, et visualisation de motifs textuels.
 Compétences mises en avant : Ingénierie linguistique, design de pipelines NLP, et adaptation des méthodes aux spécificités des données sociales.
