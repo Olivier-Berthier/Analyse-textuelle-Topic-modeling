@@ -14,5 +14,7 @@ Pour l’exploration thématique, nous combinons :
 L’approche territorialisée (croissement avec les codes postaux) illustre enfin l’intégration de métadonnées externes pour contextualiser les patterns linguistiques.
 Les défis rencontrés — gestion des données bruitées, optimisation des règles de segmentation, ou équilibre entre précision et scalabilité, soulignent la rigueur méthodologique déployée pour transformer un corpus heterogeneous
 en insights actionnables.
-Outils clés : Lemmatisation avancée, segmentation sémantique par règles hybrides (regex + NLP), analyse distributionnelle, et visualisation de motifs textuels.
+
+
+*Outils clés* : Lemmatisation avancée, segmentation sémantique par règles hybrides (regex + NLP), analyse distributionnelle, et visualisation de motifs textuels.
 Compétences mises en avant : Ingénierie linguistique, design de pipelines NLP, et adaptation des méthodes aux spécificités des données sociales.
